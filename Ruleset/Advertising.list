@@ -1,0 +1,8 @@
+# self-customized advertising blocking
+
+# ymail ios app
+DOMAIN-SUFFIX,m.yap.yahoo.com
+DOMAIN-SUFFIX,sb.scorecardresearch.com
+DOMAIN-SUFFIX,beap-bc.yahoo.com
+DOMAIN-SUFFIX,pr.comet.yahoo.com
+DOMAIN-SUFFIX,wg1.b.yahoo.com
