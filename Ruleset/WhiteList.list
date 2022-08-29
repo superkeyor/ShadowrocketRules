@@ -1,6 +1,7 @@
 # 自己整理的
 # 排除 AdBlock 的误伤
 
+URL-REGEX,zhuneiyun
 DOMAIN,gm.mmstat.com
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
