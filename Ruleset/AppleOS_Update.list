@@ -1,43 +1,26 @@
 # 屏蔽 AppleOS 更新
+# reference
+# https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/SystemOTA/SystemOTA.list
+# https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/BlockiOSUpdate.list
+# https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/SoftwareUpdate.list
+# https://raw.githubusercontent.com/an0na/R/master/Filter/IOS_OTA.list
+# https://raw.githubusercontent.com/LuzMasonj/Quantumult/master/QuantumultX/Filter/BlockiOSServices.conf
 
-# 屏蔽 iOS/iPadOS 企业证书失效
-DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
-DOMAIN-SUFFIX,ocsp.apple.com
-DOMAIN-SUFFIX,ocsp.g.aaplimg.com
-
-# iOS/iPadOS Update
-DOMAIN,ns.itunes.apple.com
-DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
-DOMAIN-SUFFIX,appldnld.apple.com
-DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
-DOMAIN-SUFFIX,appldnld.g.aaplimg.com
-DOMAIN,ipsw.me
-
-# iOS/iPadOS, tvOS and macOS(?)
-DOMAIN,gg.apple.com
+# > iOS, iPadOS, and watchOS updates
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
+DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
-DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,mesu.g.aaplimg.com
-DOMAIN,updates.cdn-apple.com
-DOMAIN,updates-http.cdn-apple.com
-DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,appldnld.g.aaplimg.com
+DOMAIN,ns.itunes.apple.com,PROXY
+DOMAIN,xp.apple.com,PROXY
 
-# # macOS Update
-# DOMAIN,configuration.apple.com
-# DOMAIN,gnf-mdn.apple.com
-# DOMAIN,gnf-mr.apple.com
-# DOMAIN,gs.apple.com
-# DOMAIN,ig.apple.com
-# DOMAIN,skl.apple.com
-# DOMAIN,swcdn.apple.com
-# DOMAIN,swdist.apple.com
-# DOMAIN,swdownload.apple.com
-# DOMAIN,swpost.apple.com
-# DOMAIN,swscan.apple.com
-
-# # macOS Recovery
-# DOMAIN,oscdn.apple.com
-# DOMAIN,osrecovery.apple.com
+# > 屏蔽 iOS/iPadOS 企业证书失效
+DOMAIN-SUFFIX,ocsp.apple.com
+DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
+DOMAIN-SUFFIX,ocsp.g.aaplimg.com
