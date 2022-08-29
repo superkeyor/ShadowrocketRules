@@ -13,7 +13,7 @@ DOMAIN-SUFFIX,appldnld.apple.com.akadns.net
 DOMAIN-SUFFIX,appldnld.g.aaplimg.com
 DOMAIN,ipsw.me
 
-# iOS/iPadOS, tvOS and macOS
+# iOS/iPadOS, tvOS and macOS(?)
 DOMAIN,gg.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com
 DOMAIN-SUFFIX,gdmf.apple.com.akadns.net
@@ -25,19 +25,19 @@ DOMAIN,updates.cdn-apple.com
 DOMAIN,updates-http.cdn-apple.com
 DOMAIN,xp.apple.com
 
-# macOS Update
-DOMAIN,configuration.apple.com
-DOMAIN,gnf-mdn.apple.com
-DOMAIN,gnf-mr.apple.com
-DOMAIN,gs.apple.com
-DOMAIN,ig.apple.com
-DOMAIN,skl.apple.com
-DOMAIN,swcdn.apple.com
-DOMAIN,swdist.apple.com
-DOMAIN,swdownload.apple.com
-DOMAIN,swpost.apple.com
-DOMAIN,swscan.apple.com
+# # macOS Update
+# DOMAIN,configuration.apple.com
+# DOMAIN,gnf-mdn.apple.com
+# DOMAIN,gnf-mr.apple.com
+# DOMAIN,gs.apple.com
+# DOMAIN,ig.apple.com
+# DOMAIN,skl.apple.com
+# DOMAIN,swcdn.apple.com
+# DOMAIN,swdist.apple.com
+# DOMAIN,swdownload.apple.com
+# DOMAIN,swpost.apple.com
+# DOMAIN,swscan.apple.com
 
-# macOS Recovery
-DOMAIN,oscdn.apple.com
-DOMAIN,osrecovery.apple.comk
+# # macOS Recovery
+# DOMAIN,oscdn.apple.com
+# DOMAIN,osrecovery.apple.com
