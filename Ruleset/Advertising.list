@@ -1,8 +1,10 @@
 # self-customized advertising blocking
-# see also https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket
+# see also 
+# https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket
+# https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
 
 # (Y)
-# YMail app
+# > YMail app
 DOMAIN-SUFFIX,m.yap.yahoo.com
 DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,beap-bc.yahoo.com
