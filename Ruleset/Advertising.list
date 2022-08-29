@@ -4,7 +4,7 @@
 # https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
 
 # (Y)
-# > YMail app
+# YMail app
 DOMAIN-SUFFIX,m.yap.yahoo.com
 DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,beap-bc.yahoo.com
