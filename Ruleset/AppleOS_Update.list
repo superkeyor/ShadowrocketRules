@@ -105,7 +105,7 @@ DOMAIN-SUFFIX,mesu-cdn.apple.com.akadns.net
 DOMAIN-SUFFIX,mesu-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,mesu.apple.com
 DOMAIN-SUFFIX,mesu.g.aaplimg.com
-# > 屏蔽 iOS/iPadOS 企业证书失效
+# 屏蔽 iOS/iPadOS 企业证书失效
 DOMAIN-SUFFIX,ocsp.apple.com
 DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,ocsp.g.aaplimg.com
