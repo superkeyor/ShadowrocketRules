@@ -2,6 +2,7 @@
 # see also 
 # https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Shadowrocket
 # https://github.com/zhouzhouprogram/Shadowrocket-ADBlock-Rules
+# https://github.com/DivineEngine/Profiles/tree/master/Surge/Ruleset/Guard
 
 # General
 DOMAIN-KEYWORD,adservice
