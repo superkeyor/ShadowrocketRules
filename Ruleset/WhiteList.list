@@ -1,7 +1,11 @@
 # 自己整理的
 # 排除 AdBlock 的误伤
 
+# slickdeals
+DOMAIN,ad.doubleclick.net
+# bible
 URL-REGEX,zhuneiyun
+
 DOMAIN,gm.mmstat.com
 DOMAIN,log.mmstat.com
 DOMAIN,sycm.mmstat.com
