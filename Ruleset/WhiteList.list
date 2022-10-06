@@ -5,6 +5,7 @@
 DOMAIN,ad.doubleclick.net
 # bible
 URL-REGEX,zhuneiyun
+DOMAIN,zanmeishige.com
 
 DOMAIN,gm.mmstat.com
 DOMAIN,log.mmstat.com
