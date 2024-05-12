@@ -6,6 +6,8 @@ DOMAIN,ad.doubleclick.net
 # bible
 URL-REGEX,zhuneiyun
 DOMAIN,zanmeishige.com
+# direct without redirecting to world.taobao.com
+DOMAIN-SUFFIX,taobao.com
 
 DOMAIN,gm.mmstat.com
 DOMAIN,log.mmstat.com
