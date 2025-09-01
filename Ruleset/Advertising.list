@@ -204,6 +204,10 @@ DOMAIN,t-ads.xiaohongshu.com
 
 # (Y)
 # YMail app
+DOMAIN-SUFFIX,b.gemini.yahoo.com
+DOMAIN-SUFFIX,s.yimg.com
+DOMAIN-SUFFIX,analytics.query.yahoo.com
+DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,m.yap.yahoo.com
 DOMAIN-SUFFIX,sb.scorecardresearch.com
 DOMAIN-SUFFIX,beap-bc.yahoo.com
